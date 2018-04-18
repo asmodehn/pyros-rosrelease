@@ -18,9 +18,9 @@ if (CATKIN_ENABLE_TESTING)
     ############
 
     # What kind of tests could be generic
-    #catkin_add_nosetests(pyros/tests)
-    catkin_add_nosetests(pyros/server/tests)
-    catkin_add_nosetests(pyros/client/tests)
+    catkin_add_pytests(tests/test_pyros_server)
+    catkin_add_pytests(tests/test_pyros_client)
+    catkin_add_pytests(tests/test_pyros)
 
 endif()
 
