@@ -5,21 +5,17 @@ Pyros
    :alt: Join the chat at https://gitter.im/asmodehn/pyros
    :target: https://gitter.im/asmodehn/pyros?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
 
-.. image:: https://travis-ci.org/asmodehn/pyros.svg?branch=master
-    :target: https://travis-ci.org/asmodehn/pyros
+.. image:: https://travis-ci.org/pyros-dev/pyros.svg?branch=master
+    :target: https://travis-ci.org/pyros-dev/pyros
 
-.. image:: https://requires.io/github/asmodehn/pyros/requirements.svg?branch=master
-     :target: https://requires.io/github/asmodehn/pyros/requirements/?branch=master
+.. image:: https://requires.io/github/pyros-dev/pyros/requirements.svg?branch=master
+     :target: https://requires.io/github/pyros-dev/pyros/requirements/?branch=master
      :alt: Requirements Status
 
-.. image:: https://landscape.io/github/asmodehn/pyros/master/landscape.svg?style=flat
-   :target: https://landscape.io/github/asmodehn/pyros/master
+.. image:: https://landscape.io/github/pyros-dev/pyros/master/landscape.svg?style=flat
+   :target: https://landscape.io/github/pyros-dev/pyros/master
    :alt: Code Health
-
-.. image:: https://www.quantifiedcode.com/api/v1/project/68d207b248dd4b3f89cf48e5de89c461/badge.svg
-  :target: https://www.quantifiedcode.com/app/project/68d207b248dd4b3f89cf48e5de89c461
-  :alt: Code issues
-
+   
 
 - If you are a `ROS`_ developer and want to use python inside `ROS`_, you can stop reading and go have a look there instead https://github.com/ros/ros_comm
 
