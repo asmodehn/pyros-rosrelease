@@ -1,3 +1,26 @@
+## pyros (kinetic) - 0.4.3-0
+
+The packages in the `pyros` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic pyros --edit` on `Wed, 18 Apr 2018 17:46:32 -0000`
+
+The `pyros` package was released.
+
+Version of package(s) in repository `pyros`:
+
+- upstream repository: https://github.com/pyros-dev/pyros.git
+- release repository: https://github.com/asmodehn/pyros-rosrelease.git
+- rosdistro version: `0.4.1-1`
+- old version: `0.4.1-1`
+- new version: `0.4.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## pyros (kinetic) - 0.4.1-1
 
 The packages in the `pyros` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic pyros --edit` on `Wed, 09 Aug 2017 08:28:21 -0000`
