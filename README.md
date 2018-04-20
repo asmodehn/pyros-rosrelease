@@ -603,5 +603,5 @@ Releasing https://github.com/asmodehn/pyros for ROS
 
 | Indigo | Jade | Kinetic |
 |:------:|:----:|:-------:|
-| [![Build Status](https://travis-ci.org/asmodehn/pyros-rosrelease.svg?branch=release%2Findigo%2Fpyros)](https://travis-ci.org/asmodehn/pyros-rosrelease)| [![Build Status](https://travis-ci.org/asmodehn/pyros-rosrelease.svg?branch=release%2Fjade%2Fpyros)](https://travis-ci.org/asmodehn/pyros-rosrelease) | [![Build Status](https://travis-ci.org/asmodehn/pyros-rosrelease.svg?branch=release%2Fkinetic%2Fpyros)](https://travis-ci.org/asmodehn/pyros-rosrelease)|
+| [![Build Status](https://travis-ci.org/pyros-dev/pyros-rosrelease.svg?branch=release%2Findigo%2Fpyros)](https://travis-ci.org/pyros-dev/pyros-rosrelease)| [![Build Status](https://travis-ci.org/pyros-dev/pyros-rosrelease.svg?branch=release%2Fjade%2Fpyros)](https://travis-ci.org/pyros-dev/pyros-rosrelease) | [![Build Status](https://travis-ci.org/pyros-dev/pyros-rosrelease.svg?branch=release%2Fkinetic%2Fpyros)](https://travis-ci.org/pyros-dev/pyros-rosrelease)|
 
